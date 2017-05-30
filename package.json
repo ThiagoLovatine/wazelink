@@ -1,0 +1,33 @@
+{
+  "name": "Wazelink",
+  "version": "1.0.1",
+  "description": "Wazelink app to wazer",
+  "cordova": {
+    "id": "cr.encke.WazeLink",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encke/wazelink"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/encke/wazelink/issues"
+  },
+  "homepage": "https://github.com/encke/wazelink"
+}
